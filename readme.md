@@ -6,8 +6,14 @@ This repo is the implementaion of multinominal naive bayes for classifying revie
 
 ## About scripts
 
-- [ ]generate_dataset.py to read the pdf files in local storage and generate a dataset ready to train multinominal naive bayes
+- [x] generate_dataset.py to read the pdf files in local storage and generate a dataset ready to train multinominal naive bayes
 
 - [x] train.py to train multinominal navie bayes model from sklearn
 
-✅ classifier.py to classify the given document
+- [x] classifier.py to classify the given comment in terminal
+
+### Output can be seen here
+
+![out](./output.png)
+
+## Prepared as assignment of Data Mining Practical taught by [Siddhant Sharma](https://github.com/Siddhant128-bit)

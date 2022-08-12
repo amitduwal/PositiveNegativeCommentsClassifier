@@ -15,5 +15,6 @@ This repo is the implementaion of multinominal naive bayes for classifying revie
 ### Output can be seen here
 
 ![out](./output.png)
+![out](./output1.png)
 
 ## Prepared as assignment of Data Mining Practical taught by [Siddhant Sharma](https://github.com/Siddhant128-bit)
